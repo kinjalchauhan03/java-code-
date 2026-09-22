@@ -1,3 +1,4 @@
+//this is thread program 
 import java.awt.*;
 import java.applet.*;
 /*
