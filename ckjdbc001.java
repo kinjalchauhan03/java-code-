@@ -1,3 +1,4 @@
+//this is thread or applet program
 import java.sql.*;
 public class ckjdbc001
 {
